@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say Hello
-        run: echo "Hello from BCIT second change asdfasdf"
+        run: echo "Hello from BCIT second change change"
       - name: Output Date
         run: echo date
